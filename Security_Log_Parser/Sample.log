@@ -1,0 +1,7 @@
+INFO User login successful
+WARNING Multiple failed login attempts
+ERROR SQL Injection attempt detected
+INFO File uploaded successfully
+WARNING Brute force attack suspected
+INFO User logged out
+ERROR Unauthorized access detected
