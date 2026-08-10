@@ -1,0 +1,14 @@
+[
+    {
+        "indicator": "185.10.20.30",
+        "threat": "Suspicious Activity",
+        "severity": "High",
+        "source": "Mock Threat Intelligence Feed"
+    },
+    {
+        "indicator": "malicious-example.com",
+        "threat": "Phishing Domain",
+        "severity": "High",
+        "source": "Mock Threat Intelligence Feed"
+    }
+]

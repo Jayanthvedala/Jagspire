@@ -1,0 +1,16 @@
+[
+    {
+        "indicator": "185.10.20.30",
+        "ioc_type": "ip",
+        "threat": "Suspicious Activity",
+        "severity": "High",
+        "source": "Mock Threat Intelligence Feed"
+    },
+    {
+        "indicator": "malicious-example.com",
+        "ioc_type": "domain",
+        "threat": "Phishing Domain",
+        "severity": "High",
+        "source": "Mock Threat Intelligence Feed"
+    }
+]
