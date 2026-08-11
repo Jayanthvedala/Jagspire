@@ -37,11 +37,13 @@ The classification is only used to organize the data. It does not decide whether
 
 ## Project Structure
 
+```text
 Day8/
 ├── Threat_data.py
 ├── sample_threat_data.json
 ├── ioc_output.json
 └── Day_08.md
+```
 
 ## How it Works
 ```text
