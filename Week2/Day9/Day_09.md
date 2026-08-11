@@ -33,11 +33,15 @@ Severity Classification
 Enriched JSON Output
 ```
 ## Project structure
+
+
+```text
 Day9/
 ├── log_enrichment.py
 ├── sample_logs.json
 ├── enriched_logs.json
 └── Day9.md
+```
 
 ## Technologies Used
 Python 3
