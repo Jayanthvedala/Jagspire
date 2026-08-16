@@ -1,0 +1,34 @@
+[
+    {
+        "event_id": "EVT-001",
+        "ip": "185.220.101.42",
+        "domain": "unknown-example.com",
+        "suspicious_ip": true,
+        "unknown_domain": true,
+        "repeated_activity": true
+    },
+    {
+        "event_id": "EVT-002",
+        "ip": "45.155.205.233",
+        "domain": "example.com",
+        "suspicious_ip": true,
+        "unknown_domain": false,
+        "repeated_activity": false
+    },
+    {
+        "event_id": "EVT-003",
+        "ip": "192.168.1.10",
+        "domain": "internal.local",
+        "suspicious_ip": false,
+        "unknown_domain": false,
+        "repeated_activity": true
+    },
+    {
+        "event_id": "EVT-004",
+        "ip": "10.0.0.15",
+        "domain": "unknown-site.net",
+        "suspicious_ip": false,
+        "unknown_domain": true,
+        "repeated_activity": false
+    }
+]

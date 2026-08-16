@@ -1,0 +1,44 @@
+[
+    {
+        "event_id": "EVT-001",
+        "ip": "185.220.101.42",
+        "domain": "unknown-example.com",
+        "risk_score": 9,
+        "risk_level": "High",
+        "reasons": [
+            "Suspicious IP (+3)",
+            "Unknown domain (+2)",
+            "Repeated activity (+4)"
+        ]
+    },
+    {
+        "event_id": "EVT-002",
+        "ip": "45.155.205.233",
+        "domain": "example.com",
+        "risk_score": 3,
+        "risk_level": "Low",
+        "reasons": [
+            "Suspicious IP (+3)"
+        ]
+    },
+    {
+        "event_id": "EVT-003",
+        "ip": "192.168.1.10",
+        "domain": "internal.local",
+        "risk_score": 4,
+        "risk_level": "Medium",
+        "reasons": [
+            "Repeated activity (+4)"
+        ]
+    },
+    {
+        "event_id": "EVT-004",
+        "ip": "10.0.0.15",
+        "domain": "unknown-site.net",
+        "risk_score": 2,
+        "risk_level": "Low",
+        "reasons": [
+            "Unknown domain (+2)"
+        ]
+    }
+]
